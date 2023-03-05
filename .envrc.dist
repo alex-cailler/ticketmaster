@@ -1,0 +1,3 @@
+export TWILIO_AUTH_SID=plop
+export TWILIO_AUTH_TOKEN=plop
+export TWILIO_PHONE=plop
